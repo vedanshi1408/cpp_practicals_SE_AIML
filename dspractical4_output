@@ -1,0 +1,335 @@
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 1
+Enter Value: 70
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 1
+Enter Value: 20
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 1
+Enter Value: 40
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 1
+Enter Value: 60
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 1
+Enter Value: 80
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 4
+Inorder:
+20 30 40 50 60 70 80 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 5
+Preorder:
+50 30 20 40 70 60 80 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 6
+Postorder:
+20 40 30 60 80 70 50 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 7
+Depth = 3
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 3
+Enter Value to Search: 40
+Element Found
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 11
+Leaf Nodes:
+20 40 60 80 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 12
+Level Order Traversal:
+50 30 70 20 40 60 80 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 10
+Parent -> Child
+Parent: 50 -> Left: 30 Right: 70 
+Parent: 30 -> Left: 20 Right: 40 
+Parent: 70 -> Left: 60 Right: 80 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 2
+Enter Value to Delete: 30
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 4
+Inorder:
+20 40 50 60 70 80 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 9
+Tree Copied Successfully
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 8
+Mirror Image Created
+Inorder after Mirror:
+80 70 60 50 40 20 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 4
+Inorder:
+80 70 60 50 40 20 
+
+------ Binary Search Tree ------
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Display Depth
+8. Mirror Image
+9. Copy Tree
+10. Parent with Child
+11. Leaf Nodes
+12. Level Order
+13. Exit
+Enter Choice: 13
+Program Ended
